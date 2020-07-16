@@ -47,6 +47,7 @@ for i in range(50):
 	sys.stdout.flush()
 	time.sleep(0.50)
 	print("\n")
+	os.system("clear")
 	print("wait till 100% and automaticaly DDoS")
 
 	
