@@ -16,11 +16,11 @@ year = now.year
 print (now)
 test = input("this is DDoS tool are you sure want to use ? [Y/N]")
 if (test == "Y"):
-	print("okee lets started")
+	pass
 elif (test == "N"):
 	exit()
 elif (test == "y"):
-	print("okee lets started")
+	pass
 elif (test == "n"):
 	exit()
 else:
