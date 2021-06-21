@@ -1,1 +1,1 @@
-# DDoS tools using python
+# DDoS tools
